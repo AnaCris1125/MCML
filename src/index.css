@@ -1,0 +1,12 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts.css);
+@import url(./components/About/About.css);
+@import url(./components/Footer/Footer.css);
+@import url(./components/Header/Header.css);
+/* @import url(./components/Main/Main.css); */
+@import url(./components/Proyectos/Proyectos.css);
+@import url(./components/SearchForm/SearchForm.css);
+@import url(./components/Nosotros/Nosotros.css);
+@import url(./App.css);
+@import url(./page.css);
+@import url(./universal.css);

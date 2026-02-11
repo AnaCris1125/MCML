@@ -1,0 +1,34 @@
+.section__nosotros {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    max-width: 1440px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.nosotros__img {
+    width: 264px;
+    height: 264px;
+    flex-shrink: 0;
+    border-radius: 20px;
+}
+
+.nosotros__title {
+    font-family: Roboto Slab;
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+.nosotros__paragraph {
+    font-family: Roboto Slab;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000;
+    margin-bottom: 15px;
+}
+
